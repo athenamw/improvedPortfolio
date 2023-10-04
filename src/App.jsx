@@ -1,6 +1,6 @@
 import { BrowserRouter } from "react-router-dom";
 
-import { About, Contact, Experience, Feedbacks, Hero, Navbar, Tech, Works, StarsCanvas} from './components';
+import { About, Contact, Experience, Feedbacks, User, Navbar, Tech, Works, StarsCanvas} from './components';
 
 
 const App = () => {
@@ -9,7 +9,7 @@ const App = () => {
       <section className="relative z-0 bg-primary">
       <section className="bg-hero-pattern bg-cover bg-no-repeat bg-center">
         <Navbar />
-        <Hero />
+        <User />
       </section>
       <About />
       <Experience />

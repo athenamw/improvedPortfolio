@@ -25,7 +25,7 @@
   background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
-.violet-gradient {
+.teal-gradient {
   background: rgb(45, 234, 253);
   background: linear-gradient(0deg, rgba(45, 234, 253, 1) 0%, rgba(120, 22, 224, 1) 50%);
   background: -webkit-linear-gradient(-90deg, #6ee2f5 0%, rgba(120, 22, 224, 1) 100%);
